@@ -1,5 +1,5 @@
 import streamlit as st
-from src.prediction import Insurance_Prediction
+from prediction import Insurance_Prediction
 st.title("Insurance Prediction")
 st.write("Description about your project")
 
